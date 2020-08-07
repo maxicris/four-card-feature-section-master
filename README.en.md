@@ -12,7 +12,7 @@ To do this challenge, you need a basic understanding of HTML and CSS. :white_che
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow. :fire:
 
-Look the [Demo]
+Look the [Demo](https://maxicris.github.io/four-card-feature-section-master/)
 
 Thanks for watch!  :green_heart:
 
