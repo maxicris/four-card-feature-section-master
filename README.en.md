@@ -8,7 +8,9 @@
 Welcome. How you doing? :wave:
 
 This challenge is to build out this feature section and get it looking as close to the design as possible.
-To do this challenge, you need a basic understanding of HTML and CSS. :white_check_mark:
+To do it, you need a basic understanding of HTML and CSS. :white_check_mark:
+
+Here you can see the [Challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow. :fire:
 
