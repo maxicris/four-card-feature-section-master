@@ -7,7 +7,9 @@
 
 Bienvenido. ¿Cómo estás? :wave:
 
-El desafío es desarrollar esta sección y hacer que se vea lo más parecido posible al diseño. Para hacer este desafío, se necesita una comprensión básica de HTML y CSS. :white_check_mark:
+El desafío es desarrollar esta sección y hacer que se vea lo más parecido posible al diseño. Para hacerlo, se necesita una comprensión básica de HTML y CSS. :white_check_mark:
+
+Acá puedes ver el [Challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
 [Frontend Mentor](https://www.frontendmentor.io) Estos desafíos permiten mejorar las habilidades en un flujo de trabajo de la vida real. :fire:
 
