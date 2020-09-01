@@ -11,9 +11,9 @@ El desafío es desarrollar esta sección y hacer que se vea lo más parecido pos
 
 Acá puedes ver el [Challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
-[Frontend Mentor](https://www.frontendmentor.io) Estos desafíos permiten mejorar las habilidades en un flujo de trabajo de la vida real. :fire:
+En [Frontend Mentor](https://www.frontendmentor.io) hay muchos desafios más que permiten mejorar las habilidades en un flujo de trabajo de la vida real. :fire:
 
-Mirá el [Demo](https://maxicris.github.io/four-card-feature-section-master/)
+Y acá el [Demo](https://maxicris.github.io/four-card-feature-section-master/)
 
 Gracias por pasar!  :green_heart:
 

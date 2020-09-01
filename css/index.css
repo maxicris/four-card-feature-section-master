@@ -7,90 +7,89 @@
   --grayish-blue: #a3a5ae;
   --very-light-gray: #fafafa;
   --font-family: 'Poppins', sans-serif;
-  font-size: 15px;
+  font-size: 62.5%;
   font-family: var(--font-family);
   background-color: var(--very-light-gray);
 }
 
+* { box-sizing: border-box; }
+
 .header {
-  margin: 5.6rem 0 5rem 0;
+  margin-top: 8.4rem;
+  margin-bottom: 7.5rem;
 }
 
-.wrapper, .wrapper__main {
+.header__wrapper, .main__wrapper {
   margin: auto;
+  width: 31.14rem;
   text-align: center;
-  width: 20.76rem;
 }
 
-.header-title {
-  font-size: 1.62rem;
+.header__wrapper-title {
+  font-size: 2.43rem;
   font-weight: 200;
   color: var(--very-dark-blue);
-  line-height: 2.4rem;
+  line-height: 3.6rem;
 }
 
-.header-title--strong {
+.header__wrapper-title--strong {
   font-weight: 600;
 }
 
-.header-paragraph {
-  font-size: 1.01rem;
+.header__wrapper-paragraph {
+  font-size: 1.52rem;
   color: var(--grayish-blue);
-  margin-top: 1rem;
-  line-height: 1.7rem;
-  padding: 0 0.5rem;
+  margin-top: 1.5rem;
+  line-height: 2.55rem;
+  padding-left: .75rem;
+  padding-right: .75rem;
 }
 
-.main__card {
-  height: 14.8rem;
+.main__wrapper-card {
+  height: 22.2rem;
   text-align: left;
   box-shadow: 0px 20px 30px -2px #D9E0EA;
-  margin-bottom: 1.65rem;
-  border-radius: 0.5rem;
+  margin-bottom: 2.48rem;
+  border-radius: 7.5px;
   position: relative;
   overflow: hidden;
   background-color: white;
 }
 
-.main__card:before {
+.main__wrapper-card:before {
   content: "";
   height: 4px;
   display: block;
   background: var(--cyan);
 }
 
-.main__card:nth-child(2):before {
-  background: var(--red);
-}
+.main__wrapper-card:nth-child(2):before { background: var(--red); }
 
-.main__card:nth-child(3):before {
-  background: var(--orange);
-}
+.main__wrapper-card:nth-child(3):before { background: var(--orange); }
 
-.main__card:nth-child(4):before {
-  background: var(--blue);
-}
+.main__wrapper-card:nth-child(4):before { background: var(--blue); }
 
-.main__card-title {
-  font-size: 1.32rem;
+.main__wrapper-card-title {
+  font-size: 1.98rem;
   font-weight: 600;
   color: var(--very-dark-blue);
-  margin: 1.9rem 0 0.65rem 1.8rem;
-  padding-left: 0.1rem;
+  margin-top: 2.9rem;
+  margin-bottom: .98rem;
+  margin-left: 2.8rem;
 }
 
-.main__card-paragraph {
-  font-size: 0.87rem;
+.main__wrapper-card-paragraph {
+  font-size: 1.3rem;
   color: var(--grayish-blue);
-  width: 16.60rem;
-  padding-left: 1.95rem;
-  line-height: 1.47rem;
+  width: 27.9rem;
+  padding-left: 2.93rem;
+  line-height: 2.21rem;
 }
 
-.main__card-icon {
+.main__wrapper-card-icon {
   position: absolute;
-  top: 9.2rem;
-  left: 15.1rem;
-  width: 3.8rem;
-  height: 3.8rem;
+  top: 13.8rem;
+  left: 22.65rem;
+  width: 5.7rem;
+  height: 5.7rem;
 }

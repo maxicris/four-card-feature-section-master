@@ -12,9 +12,9 @@ To do it, you need a basic understanding of HTML and CSS. :white_check_mark:
 
 Here you can see the [Challenge](https://www.frontendmentor.io/challenges/four-card-feature-section-weK1eFYK).
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow. :fire:
+And here the [Demo](https://maxicris.github.io/four-card-feature-section-master/)
 
-Look the [Demo](https://maxicris.github.io/four-card-feature-section-master/)
+There are many more challenges in [Frontend Mentor](https://www.frontendmentor.io) that allow you to improve skills in a real life workflow. :fire:
 
 Thanks for watch!  :green_heart:
 
